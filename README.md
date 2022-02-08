@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramesh Nair
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on HTMl,CSS, DOM, ES6
+- 💞️ I’m looking to collaborate on HTML,CSS, DOM, ES6
 - 📫 My e-mail is rameshnair89@gmail.com
 
 <!---
