@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramesh Nair
+- 👋 Hi, I’m Ramesh Kumar
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on HTML,CSS, DOM, ES6
